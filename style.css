@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.text-page {
+    padding-left: 15px;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    width: 15%;
+    background-color: rgb(214, 213, 212);
+}
+
+.section {
+    width: 80%;
+}
+
+.header>ul {
+    list-style: none;
+    border-width: 0.5px;
+    margin: 10px;
+    padding: 0;
+    padding-bottom: 10px;
+}
+.header>div {
+    width: 100%;
+} 
